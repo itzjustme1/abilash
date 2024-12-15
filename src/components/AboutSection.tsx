@@ -14,7 +14,7 @@ export function AboutSection() {
         <div className="lg:w-2/3 text-center lg:text-left">
           <div className="bg-gray-900/50 backdrop-blur-sm rounded-3xl p-8 shadow-xl border border-white/10">
             <h1 className="text-4xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Hi, I'm High – Owner & Founder of 5M Center
+              Hi, I'm Abilash
             </h1>
             
             <p className="text-lg text-gray-300 mb-8 leading-relaxed">
